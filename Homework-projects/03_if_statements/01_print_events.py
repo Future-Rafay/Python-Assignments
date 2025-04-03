@@ -1,6 +1,6 @@
 def main():
-    print("Delete this line and write your code here! :)")
-
+    for i in range(20):
+        print(i * 2, end=' ')
 
 # This provided line is required at the end of
 # Python file to call the main() function.
