@@ -1,6 +1,6 @@
-# Assignment 1: Python Fundamentals
+# Assignment 2: Basic Python Projects
 
-Welcome to the **Assignment 1: Python Fundamentals** repository! This project is part of the Python class projects aimed at building a strong foundation in Python programming.
+Welcome to the **Assignment 2: Basic Python Projects** repository! This project is part of the Python class projects aimed at building a strong foundation in Python programming.
 
 ## Project Structure
 
@@ -8,9 +8,10 @@ This repository is organized as follows:
 
 ```
 /Python-Assignments/
-    └── Assignment 1 Python Fundamentals/
+    └── Assignment 2 Python Fundamentals/
         │       
-        ├── solutions.py
+        ├── 01_basics
+        ├── 02_intermediate
         └── README.md
 
 ```
@@ -19,17 +20,8 @@ This repository is organized as follows:
 
 I have completed this assignment and gained a solid understanding of Python fundamentals. Additionally, I utilized resources from the following repository to enhance my learning and apply advanced concepts effectively:
 
-- [Learn Modern AI Python - Homework Projects](https://github.com/panaversity/learn-modern-ai-python/tree/main/PROJECTS/homework_projects)
+- [Learn Modern AI Python - online class projects](https://github.com/panaversity/learn-modern-ai-python/tree/main/PROJECTS/online_class_projects)
 
-## Objective
-
-The goal of this assignment is to help learners understand and apply the fundamental concepts of Python programming. By completing this assignment, you will gain hands-on experience with:
-
-- Variables and Data Types
-- Input and Output
-- Conditional Statements
-- Loops
-- Functions
 
 ## Additional Learning Resources
 
